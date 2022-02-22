@@ -1,3 +1,5 @@
 # How to Create a Pre-Routed Footprint in KiCad
 
-![](tips-and-tricks/images/Screenshot 2022-02-22 143300.png)
+![](./images/Screenshot%202022-02-22%20143300.png)
+
+![](./images/Screenshot%202022-02-22%20143324.png)
